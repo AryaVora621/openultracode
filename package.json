@@ -43,7 +43,7 @@
     "release:check": "npm run verify && npm publish --dry-run"
   },
   "dependencies": {
-    "zod": "^4.1.13"
+    "zod": "^4.5.4"
   },
   "devDependencies": {
     "@types/node": "^25.9.2",
